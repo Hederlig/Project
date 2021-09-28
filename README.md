@@ -1,5 +1,8 @@
 #FreakyFashion
 
+
+# complete the wireframe with only Bootstrap, down below follows a log of how everything went day by day
+
 TODO:
 Finnish base HTLM with Bootstrap [Wokring..]
 Get imgs in place
