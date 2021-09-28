@@ -20,3 +20,5 @@ Day 4 Tuseday 28/9-2021
 Got stuck getting mobile to desktop, figur I remove and everything and focus on "Hero". My gut told me that I missed something.
 
 Day 4 Tuseday 28/9-2021 Projekt done, however my commits have been done on local level. Dont know if it will been shown on Github
+
+# Project complete
