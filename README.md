@@ -18,3 +18,5 @@ On Monday I will finnish the last of HTML and start working on the layout.
 
 Day 4 Tuseday 28/9-2021
 Got stuck getting mobile to desktop, figur I remove and everything and focus on "Hero". My gut told me that I missed something.
+
+# Edit: Projekt complett
